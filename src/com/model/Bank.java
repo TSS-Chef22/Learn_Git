@@ -1,6 +1,7 @@
 package com.model;
 import java.util.*;
 public class Bank{
+	//Edit
 	ArrayList<Branch> branchs;
 	public Bank(){
 		branchs=new ArrayList<>();
