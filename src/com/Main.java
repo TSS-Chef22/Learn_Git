@@ -2,7 +2,7 @@ package com;
 import com.model.*;
 
 class Main{
-	
+	 
 	public static void main(String[] args){
 		Customer c1 = new Customer("ali",1500);
 		Customer c2 = new Customer("hajar",500);
