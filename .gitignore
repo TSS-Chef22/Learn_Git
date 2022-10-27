@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 out/
 *.class
 .classpath
 
+=======
+.classpth
+*.class
+out/
+>>>>>>> 1749b8c6348185af0dafe57b59d30a49a22ad1ed
