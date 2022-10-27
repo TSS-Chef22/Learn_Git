@@ -4,7 +4,7 @@ public class User{
 	private int age;
 	public User(){
 		this.age=20;
-		this.name="ali";
+		this.name="Hajar";
 	}
 	public int getAge(){
 		return this.age;
